@@ -503,7 +503,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-  background: url("../img/coding_background_pic.jpg") right bottom no-repeat;
+  background: url("../img/coding_background_pic.jpeg") right bottom no-repeat;
   background-size: contain;
   padding: 110px 0 100px 0;
   height: auto;
